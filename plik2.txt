@@ -1,1 +1,2 @@
 To jest nowy plik
+Nowa linia w plik2.txt
