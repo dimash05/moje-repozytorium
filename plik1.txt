@@ -1,1 +1,2 @@
 To jest mój pierwszy plik
+Dodano drugą linię do pliku.
